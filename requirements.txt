@@ -1,0 +1,6 @@
+transformers==4.40.1
+torch
+gradio
+PyMuPDF
+requests
+beautifulsoup4
